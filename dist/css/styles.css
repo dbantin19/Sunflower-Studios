@@ -11422,7 +11422,10 @@ body {
   margin: 5rem auto;
   border: 1px solid rgba(255, 255, 255, 0.1333333333);
   background-color: #282c34;
-  background: linear-gradient(0deg, rgb(40, 44, 52) 0%, rgba(17, 0, 32, 0.5) 100%);
+  /*background: linear-gradient(0deg,
+          rgba(40, 44, 52, 1) 0%,
+          rgba(17, 0, 32, 0.5) 100%);*/
+  background: linear-gradient(0deg, rgb(17, 17, 17) 0%, rgb(139, 117, 49) 100%);
   box-shadow: 0 7px 20px 5px rgba(0, 0, 0, 0.5333333333);
   border-radius: 0.7rem;
   backdrop-filter: blur(7px);
