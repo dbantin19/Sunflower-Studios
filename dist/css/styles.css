@@ -12998,7 +12998,8 @@ body {
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.50rem solid #64a19d;
+  min-height: 100%;
 }
 
 .contact-section .card h4,
