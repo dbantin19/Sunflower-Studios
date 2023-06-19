@@ -12815,7 +12815,7 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    background-color: #00000099;
     transition: background-color 0.3s ease-in-out;
   }
 
