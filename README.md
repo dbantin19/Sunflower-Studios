@@ -1,6 +1,6 @@
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Edit the HTML and CSS files included with `dist` directory. 
 
 ### Advanced Usage
 
@@ -17,4 +17,4 @@ Clone the source files of the theme and navigate into the theme's root directory
 - `npm run start:debug` runs the project in debug mode
 - `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-You must have npm installed in order to use this build environment.
+Need to install npm
